@@ -11,8 +11,11 @@ connectDB();
 
 const app = express();
 
-// Enable CORS for all origins (you can customize this to allow specific origins)
-app.use(cors());
+app.use(cors({
+    origin: process.env.URLTOGO, // ✅ only allow this origin
+    methods: ['GET', 'POST', 'PUT', 'DELETE'],
+    credentials: true // if you're using cookies or sessions
+  }));
 
 // Middlewares
 app.use(express.json());
