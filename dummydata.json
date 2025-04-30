@@ -1,0 +1,104 @@
+[
+    {
+      "amount": 1200,
+      "category": "Groceries",
+      "description": "Monthly grocery shopping",
+      "date": "2025-02-05"
+    },
+    {
+      "amount": 3000,
+      "category": "Rent",
+      "description": "Monthly house rent",
+      "date": "2025-02-01"
+    },
+    {
+      "amount": 450,
+      "category": "Transport",
+      "description": "Fuel and public transport",
+      "date": "2025-02-15"
+    },
+    {
+      "amount": 1500,
+      "category": "Health",
+      "description": "Medical checkup and medicines",
+      "date": "2025-02-20"
+    },
+    {
+      "amount": 800,
+      "category": "Entertainment",
+      "description": "Movie and dining out",
+      "date": "2025-03-03"
+    },
+    {
+      "amount": 400,
+      "category": "Utilities",
+      "description": "Electricity and water bill",
+      "date": "2025-03-10"
+    },
+    {
+      "amount": 200,
+      "category": "Others",
+      "description": "Stationery items",
+      "date": "2025-03-17"
+    },
+    {
+      "amount": 1250,
+      "category": "Groceries",
+      "description": "Monthly groceries for March",
+      "date": "2025-03-05"
+    },
+    {
+      "amount": 3000,
+      "category": "Rent",
+      "description": "House rent for March",
+      "date": "2025-03-01"
+    },
+    {
+      "amount": 350,
+      "category": "Transport",
+      "description": "Fuel refill",
+      "date": "2025-03-14"
+    },
+    {
+      "amount": 500,
+      "category": "Health",
+      "description": "Medicine purchase",
+      "date": "2025-03-21"
+    },
+    {
+      "amount": 900,
+      "category": "Entertainment",
+      "description": "Stand-up show and snacks",
+      "date": "2025-04-02"
+    },
+    {
+      "amount": 420,
+      "category": "Utilities",
+      "description": "Monthly water bill",
+      "date": "2025-04-11"
+    },
+    {
+      "amount": 180,
+      "category": "Others",
+      "description": "Gifts for family",
+      "date": "2025-04-15"
+    },
+    {
+      "amount": 1100,
+      "category": "Groceries",
+      "description": "Groceries for April",
+      "date": "2025-04-06"
+    },
+    {
+      "amount": 3000,
+      "category": "Rent",
+      "description": "Rent payment April",
+      "date": "2025-04-01"
+    },
+    {
+      "amount":4000,
+      "category":"human traficking",
+      "description":"resffd",
+      "date": "2025-04-28"
+    }
+  ]
